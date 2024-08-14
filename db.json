@@ -1,0 +1,28 @@
+{
+  "prod": [
+    { "id": 1, "title": "Anel", "author": "Anel Aliança", "image": "images/aneis/anel-alianca.jfif", "description": "Uma elegante aliança, símbolo de união e compromisso."},
+    { "id": 2, "title": "Anel", "author": "Anel Coração Minimalista", "image": "images/aneis/anel-coracao-minimalista.png", "description": "Um delicado anel com um coração sutil."},
+    { "id": 3, "title": "Anel", "author": "Anel Gota Ponto de Luz", "image": "images/aneis/anel-gota-ponto-de-luz.png", "description": "Elegante anel com um ponto de luz em forma de gota."},
+    { "id": 4, "title": "Anel", "author": "Anel Liso Torcido", "image": "images/aneis/anel-liso-torcido.jpeg", "description": "Um anel simples com um design torcido."},
+    { "id": 5, "title": "Anel", "author": "Anel Meia Aliança", "image": "images/aneis/anel-meia-alianca.png", "description": "Anel clássico com meio círculo de pedras."},
+    { "id": 6, "title": "Anel", "author": "Anel Meia Aliança Diamantado", "image": "images/aneis/anel-meia-alianca-diamantado.jpg", "description": "Anel refinado com acabamento diamantado."},
+    { "id": 7, "title": "Anel", "author": "Anel Trançado", "image": "images/aneis/anel-trancado.png", "description": "Anel com design trançado"},
+    { "id": 8, "title": "Anel", "author": "Anel Zirconia Gota", "image": "images/aneis/anel-zirconia-gota.png", "description": "Um anel deslumbrante com zircônia em forma de gota."},
+    { "id": 9, "title": "Brinco", "author": "Brinco Argola", "image": "images/brincos/brinco-argola.jpg", "description": "Brincos de argola clássicos."},
+    { "id": 10, "title": "Brinco", "author": "Brinco Argola Grande", "image": "images/brincos/brinco-argola-grande.jpg", "description": "Argolas grandes e impactantes."},
+    { "id": 11, "title": "Brinco", "author": "Brinco Cristais", "image": "images/brincos/brinco-cristais.jpg", "description": "Brincos delicados com cristais brilhantes."},
+    { "id": 12, "title": "Brinco", "author": "Brinco Cristal Diamantado", "image": "images/brincos/brinco-cristal-diamantado.jpg", "description": "Brincos com cristais de acabamento diamantado."},
+    { "id": 13, "title": "Brinco", "author": "Brinco Ponto de Luz Redondo", "image": "images/brincos/brinco-ponto-de-luz-redondo.png", "description": "Brincos simples com pontos de luz redondos."},
+    { "id": 14, "title": "Brinco", "author": "Brinco Prata Arredondado", "image": "images/brincos/brinco-prata-arredondado.jpg", "description": "Brincos em prata com design arredondado."},
+    { "id": 15, "title": "Brinco", "author": "Brinco Prata Leve Pendurado", "image": "images/brincos/brinco-prata-leve-pendurado.jpg", "description": "Brincos prateados leves e pendurados."},
+    { "id": 16, "title": "Colar", "author": "Colar Árvore da Vida", "image": "images/colares/colar-arvore-da-vida.jpg", "description": "Colar simbólico com pingente de Árvore da Vida."},
+    { "id": 17, "title": "Colar", "author": "Colar Ponto de Luz Redondo", "image": "images/colares/colar-ponto-luz-redondo.png", "description": "Colar com um delicado ponto de luz redondo."},
+    { "id": 18, "title": "Colar", "author": "Colar Prata Estrela", "image": "images/colares/colar-prata-estrela.jpg", "description": "Colar em prata com um delicado pingente de estrela."},
+    { "id": 19, "title": "Colar", "author": "Colar Prata Onda", "image": "images/colares/colar-prata-onda.png", "description": "Colar com pingente em forma de onda."},
+    { "id": 20, "title": "Colar", "author": "Corrente", "image": "images/colares/corrente.jpg", "description": "Corrente prateada simples e elegante."},
+    { "id": 21, "title": "Pulseira", "author": "Pulseira Bolinha", "image": "images/pulseiras/pulseira-bolinhas.png", "description": "Pulseira delicada com detalhes em bolinhas."},
+    { "id": 22, "title": "Pulseira", "author": "Pulseira Diamantado", "image": "images/pulseiras/pulseira-diamantado.png", "description": "Pulseira com acabamento diamantado."},
+    { "id": 23, "title": "Pulseira", "author": "Pulseira Elo Coração", "image": "images/pulseiras/pulseira-elo-coracao.png", "description": "Pulseira charmosa com elos em forma de coração."},
+    { "id": 24, "title": "Pulseira", "author": "Pulseira Fina", "image": "images/pulseiras/pulseira-fina.jpeg", "description":"Pulseira prata fina e discreta."}
+  ]
+}
